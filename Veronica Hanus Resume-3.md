@@ -1,15 +1,19 @@
-<h1>Veronica Hanus</h1> <h5>[email](mailto:vehanus@gmail.com) <i class="icon-mail"></i> | [github](https://github.com/vzhz)<i class=" "></i> | [linkedin](https://www.linkedin/.com/in/veronicahanus)<i class=" "></i> | [twitter](https://twitter.com/veronica_hanus) <i class="icon-twitter"></i>| [resume](link, if this is online anywhere)<i class="icon-file"></i> </h5> 
+<h1>Veronica Hanus</h1> 
+Veronica has been working on the edge of software engineering for years. Her background is in the earth sciences, where she has experience in both academic and industry research, and looks forward to being able to create software similar to what she's used in her research, which has included geochemistry, paleomagnetism, and landing-site selection for the [Mars Curiosity Rover](http://www.space.com/18027-mars-rover-curiosity-amazing-photos-red-planet.html). She welcomes opportunities that can help her stitch together the technical skills she has pursued to embark on a career in web development. She enjoys solving problems, talking about what she's learning, and has been told she's on the better side of the [Dunning-Kruger scale](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect). Thank you for visiting and you can continue to read about her <a href="#technical">Technical</a>, <a href="#organization">Organization</a>, <a href="#teaching">Teaching</a>, and <a href="#education">Educational</a> accomplishments or review her <a href="skills">Skills</a>.
+
+[email](mailto:vehanus@gmail.com) <i class="icon-mail"></i> | [github](https://github.com/vzhz)<i class=""></i> | [linkedin](https://www.linkedin/.com/in/veronicahanus)<i class=" "></i> | [twitter](https://twitter.com/veronica_hanus) <i class="icon-twitter"></i>| [resume](https://vzhz.github.io/doc/vh-resume.pdf)<i class="icon-file"></i> 
 
 ------------------
 
-*Education*
-Colgate University, Hamilton, NY | BA, Geology | May 2010
 
-> Alumni Memorial Scholar Fellowship Awardee 
-> $5,000 award for top 2% of each class year to fund research
+*Technical*
+----
+Code Explorer, Recurse Center, New York City, NY | Sep. - Dec. 2015
+>Focused on building modular programs in Python, emphasizing best-practice design and user needs
+>Presented on [TeX history and LaTeX typesetting language](https://github.com/vzhz/LaTeXresources)
+>Started beginner programmer daily checkins to allow folks to learn from and support each other
 
-----------
-*Data Collection & Management*
+
 Research Engineer, Schlumberger-Doll Research Center, Cambridge, MA | Mar. - Dec. 2014
 
 > Prepared samples, collected mineralogy data, and presented findings for projects from the Vaca Muerta, Eagle Ford, Marcellus, Bakken & Qusaiba formations
@@ -18,22 +22,33 @@ Research Engineer, Schlumberger-Doll Research Center, Cambridge, MA | Mar. - Dec
 Research Assistant, [MIT Paleomagnetism Laboratory](http://scripts.mit.edu/~paleomag/pages/intro.php), Cambridge, MA | Jan. 2012 - Oct. 2013
 
 > Performed conglomerate test and alternating field demagnetization on [early-earth rocks](http://scripts.mit.edu/~paleomag/pages/early-earth.php)
-> Improved procedure for removing contaminants from sample disks, allowing more precise measurements to be taken
-> Maintained lab by completing organizational tasks, including ordering supplies, introducing others to [procedures,](http://scripts.mit.edu/~paleomag/pages/instruments.php) & trouble-shooting
+> Adapted lab procedures to allow single-clast (small) terrestrial samples to be measured for the first time and improved efficiency by saving 30+ hours per run of data collection
+> Maintained lab by completing organizational tasks, including ordering supplies, introducing others to [procedures](http://scripts.mit.edu/~paleomag/pages/instruments.php), & trouble-shooting
 
 Data Intern, NASA Jet Propulsion Laboratory, Pasadena, CA | Jan. - Aug. 2009
 [Student teaching module describing site selection](http://marsed.asu.edu/sites/default/files/pdfs_resources/Curiosity_Landing_Site_2012.pdf)<i class="icon-file"></i>
 
 > Led student effort to determine rock distributions for possible landing sites for the Mars Curiosity rover and developed methods to incorporate these distributions into GIS datasets
 > Maintained ArcGIS  database and prepared existing data for landing site selection
-> Mentored three students, teaching them pertinent geology concepts and helping them adjust to lab
-> Collaborated with software lead to implement improvements, developed assessment criteria
+> Introduced three students to in-house software for QA element of our project, including reporting procedures, software process, and limitations
+> Develop hazard assessment criteria and communicated this to students
+> Collaborated with software lead to implement improvements
 
-![.gif of our hero bumping along](http://giphy.com/gifs/JprKQFyspa7tu/html5) <-- I think I need to download the gif and host it somewhere (ex: https://dajbelshaw.makes.org/thimble/LTI4NzcwMzA0MA==/how-to-use-markdown)
+Here is team visiting the a simulation of the Marian surface and watching the rover being built.
+<img style="float: left;" src="https://github.com/vzhz/resume_markdown/blob/master/marsyard.jpg?raw=true" alt="Interns visiting the simulated Martian surface" width="275" height="200">
 
+<img style="float: right;" src="https://github.com/vzhz/resume_markdown/blob/master/rover_being_built.jpg?raw=true" alt="Watching the rover being built was very motivating on the tough days" width="275" height="200">
+How do I get those motherfuckers next to each other?
+
+Seeing the successful landing was one of the proudest moments of my life. She's still trucking along.
+<iframe src="//giphy.com/embed/RoW6V5BqhJYg8" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/mars-maneuver-skycrane-RoW6V5BqhJYg8"></a></p>
+<iframe src="//giphy.com/embed/JprKQFyspa7tu" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/photo-set-mars-rover-JprKQFyspa7tu"></a></p>
+These motherfuckers should be next to each other too
 
 ----------
-*Organization & Communication*
+*Organization*
+----
+
 Event Lead, MIT [Student Information Processing Board](https://sipb.mit.edu/) Cluedumps Lecture Series, Cambridge, MA | Fall 2011
 
 > Facilitated a [fifteen week series of technical lectures](http://cluedumps.mit.edu/wiki/Cluedumps_2011) on a variety
@@ -41,7 +56,7 @@ Event Lead, MIT [Student Information Processing Board](https://sipb.mit.edu/) Cl
 
 Senior Advisor (2009-2010) & Vice-President (Fall 2008), Colgate University Geological Society, Hamilton, NY 
 
-> Coordinated quarterly presentations of Earth Science topics at local schools with typical participation of six geology students and 60+ middle school students [enter link description here](http://scripts.mit.edu/~paleomag/pages/intro.php)
+> Coordinated quarterly presentations of Earth Science topics at local schools with typical participation of six geology students and 60+ middle school students
 > Directed student trips to locations of geologic interest 
 > Facilitated communication between faculty and students by publicizing class trips, speakers, and club events (even [fossil-hauling](http://news.colgate.edu/2008/12/big-fossils-ferried-across-qua.html/))
 > Coordinated weekly ``bad geology" film series and moderated accompanying discussions
@@ -52,52 +67,94 @@ Student Senator, Colgate University Student Government Association, Hamilton, NY
 > Acclaimed for problem-solving and outstanding communication with constituents
 
 ----------
-*Teaching & Advising*
+
+
+
+*Teaching*
+------
+
+Remote Tutor, RC Start, Brooklyn, NY | Nov. 2015 - July 2016
+> Provided continuing weekly one-on-one feedback and mentorship guiding a nontraditional student through the first steps of her transition from retail sales to software
+
+Teaching Assistant, Techie Youth, Brooklyn, NY | Jul. - Aug. 2016
+> Assisted in preparing aging-out foster children for positions in IT
+> See [recognition and press](https://www.techieyouth.org/) of this important program 
+
 Science Instructor, Guided Discoveries Astrocamp, Idyllwild, CA | Jan. - Apr. 2015
 
-> Developed curriculum and introduced 3rd-11th graders to planetary science in an experimental teaching environment
+> Introduced 3rd-11th graders to planetary science in an experimental teaching environment
+> Redesigned curriculum for the ["Cosmic Lander" class](https://www.youtube.com/watch?v=t-3CwCxPF3I) that met the NGSS standards and infused the existing course with insights from my work on the Curiosity Rover landing site selection
 
-<iframe src="https://vine.co/v/Om6U0bODbQO/embed/simple" width="300" height="300" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
-<iframe src="https://vine.co/v/MtIH2bh2hev/embed/simple" width="300" height="300" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+<iframe src="https://vine.co/v/Om6U0bODbQO/embed/simple" width="250" height="250" frameborder="0"></iframe>
+
+
+<iframe src="https://vine.co/v/MtIH2bh2hev/embed/simple" width="250" height="250" frameborder="0"></iframe>
+
+<script> src="https://platform.vine.co/static/scripts/embed.js"></script>
+
 
 Writing Instructor, MIT Academic Teaching Initiative SAT Prep, Cambridge, MA | 2011-2012
 
-> Developed and taught [12-week course](http://ati.mit.edu/sat1) for 110 students, a low-cost alternative to commercial SAT preparation 
-> Developed online system for student homework submission and grading
+> Developed and taught [12-week course](http://ati.mit.edu/sat1) SAT Writing course for 60 students (3 sections)
+> Developed online system for student homework submission and grading using Google tools
+> Classroom strategies included in-class writing exercises, peer review, take-home prompts and questions, and 1-on-1 writing feedback
+> Over 70% of my students increased their scores 200 points during the course
+> Several students write asking for feedback on college essays and their own practice prompts 1-2 years after the course
+> This low-cost program included many aspiring first-generation college students
 
- 
-Grant Writer, ARRL Education and Technology Program Grant for School Radio Equipment | Dec. 2010
 
+Programming Coach, Bootstrap Afterschool Program, Cambridge, MA | Aug. 2011 - May 2012
+
+> Provided 1-on-1 and group instruction for 14 middle-school students in creating their own games during [10-week program](http://www.bootstrapworld.org/), which has since been adapted by Code.org
+> Used functional programming (Scheme) and pair programing to teach algebraic concepts (Pythagorean theorem & writing appropriate algebraic functions) and programming concepts (problem solving using the Design Recipe, data types, Boolean logic, conditional branching, functions and variables
+<iframe width="322" height="207" src="https://www.youtube.com/embed/6haTTMiNJxk" frameborder="0" allowfullscreen></iframe>
+
+
+<br/>
+Grant Writer, ARRL Education and Technology Program Grant for School Radio Equipment, Fremont, NE | Dec. 2010
 > Wrote successful $3,000 grant to purchase robotics for after-school programs in a disadvantaged community
 
  
 GIS Instructor and Coach, Academy Robot Club, Elkhorn, NE | Fall 2010
 > Integrated GIS and robotics to  make them accessible to 10 middle-school and junior high students
 
+----------
+
+*Education*
+----
+Colgate University, Hamilton, NY | BA, Geology | May 2010
+> Alumni Memorial Scholar Fellowship Awardee 
+> $5,000 award for top 2% of each class year to fund research projects
+
+Homeschooled K-12, Fremont, NE | May 2005
+> National Merit Scholarship Finalist
+> Full-time farm kid
+
 
 ----------
 
 *Skills*
-
+---
 OS     | Comfort|	
 ------|------- |
-Linux  |smilie face or thumbs up       
-Mac    |🌶       
-PC     |🌶       
+Mac  |Most current knowledge       
+Linux    |We're like old friends      
+MS     |It's been a long time       
 
-I want these two tables to be next to each other
+I want these two tables to be next to each other (esp. if I change to some sort of smilie faces or hot peppers to show level of  - how?
 
 Language | Ability|
 ---------|---------
-MATLAB | chili pepper
-Python |
-LaTeX | 
-HTML/CSS |
+Python | Has been quoted as saying "oh, we have that" when asked if Python has a certain feature
+LaTeX | My first programming language and preferred method of formatting <3
+HTML/CSS | Centering elements is surprisingly hard
+Rails  | Very wet behind the ears
+JavaScript | Written fewer than 30 lines
+Web-skills | I resemble a cat searching the inside of a paper bag
 
 Software | Purpose | Ability
 ----------|-------|------
-ArcGIS Advanced | Map-making & spacial data analysis | thumbs way up 
-MS Office & LibreOffice |Desktop Business Applications | thumbs way up
+ArcGIS Advanced | Map-making & spacial data analysis | I have considered teaching the mechanics
 
 **Certifications**
 Licensed Private Pilot | National Registry Certified Emergency Medical Technician (EMT-B) | Wilderness First Aid Certified | CPR/AED for Professional Rescuers | Red Cross First Aid/AED/CPR Instructor
@@ -112,43 +169,13 @@ op1=>operation: Give me feedback & visit again!
 cond=>condition: Yes or No?
 
 op=>operation: Like what you see?
-op2=>operation: Get in touch!
+op2=>operation: Get in touch! <i class="icon-mail">
 
 st->op->cond
 cond(yes)->op2
 cond(no)->op1->op
 ```
 <h5>email <i class="icon-mail"></i> | github<i class=" "></i> | linkedin<i class=" "></i> | twitter <i class="icon-twitter"></h5>
+Can I get the icons inside the box so people can click on them if they see fit? I think the words are too large. Then I try to copy/past the email icon I get the code itself and not the icon
 
 -------------------
-
-
-
-### UML diagrams
-
-You can also render sequence diagrams like this:
-
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
-
-And flow charts like this:
-
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-> **Note:** You can find more information:
-
-> - about **Sequence diagrams** syntax [here][7],
-> - about **Flow charts** syntax [here][8].
-
