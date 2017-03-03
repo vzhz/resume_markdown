@@ -1,7 +1,7 @@
 <h1>Veronica Hanus</h1> 
-Veronica has been working on the edge of software engineering for years. Her background is in the earth sciences, where she has experience in both academic and industry research, and looks forward to being able to create software similar to what she's used in her research, which has included geochemistry, paleomagnetism, and landing-site selection for the [Mars Curiosity Rover](http://www.space.com/18027-mars-rover-curiosity-amazing-photos-red-planet.html). She welcomes opportunities that can help her stitch together the technical skills she has pursued to embark on a career in web development. She enjoys solving problems, talking about what she's learning, and has been told she's on the better side of the [Dunning-Kruger scale](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect). Thank you for visiting and you can continue to read about her <a href="#technical">Technical</a>, <a href="#organization">Organization</a>, <a href="#teaching">Teaching</a>, and <a href="#education">Educational</a> accomplishments or review her <a href="skills">Skills</a>.
+Veronica has been working on the edge of software engineering for years. Her background is in the earth sciences, where her experience has included geochemistry, paleomagnetism, and landing-site selection for the [Mars Curiosity Rover](http://www.space.com/18027-mars-rover-curiosity-amazing-photos-red-planet.html). She looks forward to being able to create software that helps inform solutions, and leverages her background and interest in people. She welcomes opportunities that can help her stitch together the technical skills she has pursued to embark on a career in web development. She enjoys solving problems, talking about what she's learning, and has been told she's on the better side of the [Dunning-Kruger scale](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect). Thank you for visiting and you can continue to read about her <a href="#technical">Technical</a>, <a href="#organization">Organization</a>, <a href="#teaching">Teaching</a>, and <a href="#education">Educational</a> accomplishments, review her <a href="#skills">Skills</a>, or see what she's up to <a href="#current">right now</a>.
 
-[email](mailto:vehanus@gmail.com) <i class="icon-mail"></i> | [github](https://github.com/vzhz)<i class=""></i> | [linkedin](https://www.linkedin/.com/in/veronicahanus)<i class=" "></i> | [twitter](https://twitter.com/veronica_hanus) <i class="icon-twitter"></i>| [resume](https://vzhz.github.io/doc/vh-resume.pdf)<i class="icon-file"></i> 
+[email](mailto:vehanus@gmail.com) <i class="icon-mail"></i> | [github](https://github.com/vzhz)<i class=""></i> | [linkedin](https://www.linkedin/.com/in/veronicahanus)<i class=" "></i> | [twitter](https://twitter.com/veronica_hanus) <i class="icon-twitter"></i>| [.pdf resume](https://vzhz.github.io/doc/vh-resume.pdf)<i class="icon-file"></i> 
 
 ------------------
 
@@ -25,10 +25,10 @@ Research Assistant, [MIT Paleomagnetism Laboratory](http://scripts.mit.edu/~pale
 >* Adapted lab procedures to allow single-clast (small) terrestrial samples to be measured for the first time and improved efficiency by saving 30+ hours per run of data collection
 >* Maintained lab by completing organizational tasks, including ordering supplies, introducing others to [procedures](http://scripts.mit.edu/~paleomag/pages/instruments.php), & trouble-shooting
 
-Data Intern, NASA Jet Propulsion Laboratory, Pasadena, CA | Jan. - Aug. 2009
-[Student teaching module describing site selection](http://marsed.asu.edu/sites/default/files/pdfs_resources/Curiosity_Landing_Site_2012.pdf)<i class="icon-file"></i>
+Data Intern, NASA Jet Propulsion Laboratory, Pasadena, CA | Jan. - Aug. 2009<br/>
 
->* Led student effort to determine rock distributions for possible landing sites for the Mars Curiosity rover and developed methods to incorporate these distributions into GIS datasets
+
+>* Led student effort to determine rock distributions for possible landing sites for the Mars Curiosity Rover and developed methods to incorporate these distributions into GIS datasets. See [student teaching module describing site selection](http://marsed.asu.edu/sites/default/files/pdfs_resources/Curiosity_Landing_Site_2012.pdf)<i class="icon-file"></i> for an overview of the process.
 >* Maintained ArcGIS  database and prepared existing data for landing site selection
 >* Introduced three students to in-house software for QA element of our project, including reporting procedures, software process, and limitations
 >* Develop hazard assessment criteria and communicated this to students
@@ -97,14 +97,14 @@ Programming Coach, Bootstrap Afterschool Program, Cambridge, MA | Aug. 2011 - Ma
 >* Provided 1-on-1 and group instruction for 14 middle-school students in creating their own games during [10-week program](http://www.bootstrapworld.org/), which has since been adapted by Code.org
 >* Used functional programming (Scheme) and pair programing to teach algebraic concepts (Pythagorean theorem & writing appropriate algebraic functions) and programming concepts (problem solving using the Design Recipe, data types, Boolean logic, conditional branching, functions and variables
 <br/>
->[![Video for Bootstrap](https://img.youtube.com/vi/www.youtube.com/6haTTMiNJxk/0.jpg)](https://www.youtube.com/watch?v=www.youtube.com/6haTTMiNJxk)
+>* See more about the [Bootstrap program in this video](https://img.youtube.com/vi/www.youtube.com/6haTTMiNJxk/0.jpg)
 
 Grant Writer, ARRL Education and Technology Program Grant for School Radio Equipment, Fremont, NE | Dec. 2010
 >* Wrote $3,000 grant to purchase robotics for after-school programs in a disadvantaged community
 
  
 GIS Instructor and Coach, Academy Robot Club, Elkhorn, NE | Fall 2010
->* Integrated GIS and robotics to  make them accessible to 10 middle-school and junior high students
+>* Integrated [GIS and robotics](http://academy.qualityone.us/) to  make them accessible to 10 middle-school and junior high students
 
 ----------
 
@@ -136,8 +136,8 @@ Language | Ability|
 Python | Has been quoted as saying "oh, we have that" when asked if Python has a certain feature. Therefore, it seems I am Python.
 LaTeX | My first programming language and preferred method of formatting <3
 HTML/CSS | Centering elements is surprisingly hard
-Rails  | Very wet behind the ears
-JavaScript | Written fewer than 30 lines
+Rails  | Started the [Rebuilding Rails](http://rebuilding-rails.com/RebuildingRailsFree.pdf) tutorial, but it seems a Rails project should happen first!
+JavaScript | Written fewer than 30 lines using the sample project in ["Ugh, Code"](https://ughco.de/), still wishing it was Python
 Web-skills | I resemble a cat searching the inside of a paper bag
 
 **Certifications**
@@ -146,3 +146,15 @@ Licensed Private Pilot | National Registry Certified Emergency Medical Technicia
 *Publications and references available upon request.*
 
 -------------------
+
+*Current*
+---
+In my day-to-day, I am balancing several projects and trying to keep my checkbook balanced at the same time. I've built [a personal website](https://vzhz.github.io/) and as I've learned more about programming, I've tried to impliment each improvement on that site, which has meant less duplicated code, better file structure, improved alt text, a (confusingly non-working) RSS feed, and validated HTML and CSS. I'm currently in the process of templating my (currently very redundent) static blog with [Jinja](http://jinja.pocoo.org/). <br/>
+
+I'm also attempting to make a webpage with a form that returns text about what I'm doing in my life (kind of like an automated holiday card) as a first web project and a stepping stone to projects that other people will enjoy even more than an update from me. So far, I have the form built and have been struggling through the "how does the web work" part of starting a web project. I am just starting to have the courage to explore the devloper tools in the browser and I know I have a long way to go before I am confident using them. <br/>
+
+When I take breaks from learning to program, I'm dreaming of [my next outdoor adventure](https://vzhz.github.io/blog/2015/07/10/seven-days-on-a-bike.html), [crafting things](https://vzhz.github.io/blog/2016/11/29/new-charger.html), doing spur-of-the-moment things like hauling my (new!) mattress across Manahattan, and walking dogs for some combination of love and money. <br/>
+
+
+<!--Even though I like pair programming and working with other folks, I'm usually pushing forward with myself and my google skills.<br/>-->
+<!--I find breaking projects into parts and identifying what I need to learn to do each one challenging (and exciting!). People who I talk to about programming regularly comment that my approach to learning is to dip my toe into many skills and change directions often. -->
