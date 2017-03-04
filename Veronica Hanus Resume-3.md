@@ -9,7 +9,8 @@ Veronica has been working on the edge of software engineering for years. Her bac
 *Technical*
 ----
 Code Explorer, Recurse Center, New York City, NY | Sep. - Dec. 2015
->* Focused on building modular programs in Python, emphasizing best-practice design and user needs
+>* Often described as "a writer's workshop for programmers," Recurse is a community that emphasizes communication and personal growth
+>* Focused on building modular terminal programs in Python, emphasizing best-practice design and user needs
 >* Presented on [TeX history and LaTeX typesetting language](https://github.com/vzhz/LaTeXresources)
 >* Started beginner programmer daily checkins to allow folks to learn from and support each other
 
@@ -104,6 +105,7 @@ Grant Writer, ARRL Education and Technology Program Grant for School Radio Equip
  
 GIS Instructor and Coach, Academy Robot Club, Elkhorn, NE | Fall 2010
 >* Integrated [GIS and robotics](http://academy.qualityone.us/) to  make them accessible to 10 middle-school and junior high students
+>* Watch a [short video of two students preparing for competition](https://youtu.be/e3kC0oR8hEA)
 
 ----------
 
@@ -128,7 +130,6 @@ Mac  |Most current knowledge
 Linux    |We're like old friends      
 MS     |It's been a long time       
 
-I want these two tables to be next to each other (esp. if I change to some sort of smilie faces or hot peppers to show level of how awesome I am - how?
 
 Language | Ability|
 ---------|---------
